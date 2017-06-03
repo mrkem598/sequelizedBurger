@@ -27,4 +27,3 @@ var port = process.env.PORT || 3000;
 db.sequelize.sync().then(function() {
 	app.listen(port);
 });
-console.log(module.exports);

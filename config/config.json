@@ -3,7 +3,7 @@
     "username": "root",
     "password": "",
     "database": "burger",
-    "host": "root",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
